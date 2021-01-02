@@ -1,6 +1,6 @@
 ### Hi there! 😄👋
 
-My name is Gabriel Moraes and I have been working as a web developer since 2017 and I am currently a systems development analyst at talent four consulting and I am Founder and Chief Technology Officer at [Invenção Z](https://invencaoz.org/). 
+My name is Gabriel Moraes and I have been working as a web developer since 2017 and I am currently a systems development analyst at talent four consulting and I am development full stack and Chief Technology Officer at [Usa Mais Connect](https://github.com/usa-mais-connect). 
 
 I am passionate about teaching and learning.
 
