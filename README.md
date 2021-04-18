@@ -1,8 +1,8 @@
 ### Hi there! 😄👋
 
-My name is Gabriel Moraes and I have been working as a web developer since 2017 and I am currently a systems development analyst at talent four consulting and I am development full stack and Chief Technology Officer at [Usa Mais Connect](https://github.com/usa-mais-connect). 
+My name is Gabriel Moraes and I have been working as a web developer since 2017 and I am currently a development full stack at [Comuniverse](https://comuniverse.com.br) and [Tokio Marine Seguradora](https://www.tokiomarine.com.br/). 
 
-I am passionate about teaching and learning.
+I am passionate about teaching and learning at programming.
 
 # Skills
 <p align="left">
