@@ -1,8 +1,8 @@
 ### Hi there! 😄👋
 
-My name is Gabriel Moraes and I have been working as a web developer since 2017 and I am currently a development full stack at [Comuniverse](https://comuniverse.com.br) and [Tokio Marine Seguradora](https://www.tokiomarine.com.br/). 
+My name is Gabriel Moraes and I have been working as a web developer since 2017 and I am currently a front end development at [Comuniverse](https://comuniverse.com.br) and [Tokio Marine Seguradora](https://www.tokiomarine.com.br/). 
 
-I am passionate about teaching and learning at programming.
+I am passionate about teaching and learning in programming.
 
 ## Would you like to find me?
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Moraes-191622?logo=Linkedin&logoColor=FF79C6&link=https://www.linkedin.com/in/gmorae)](https://www.linkedin.com/in/gmorae)
