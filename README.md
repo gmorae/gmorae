@@ -9,5 +9,5 @@ I am passionate about teaching and learning at programming.
 [![Gmail Badge](https://img.shields.io/badge/-gmmartins06@gmail.com-191622?logo=Gmail&logoColor=FF79C6&link=mailto:gmmartins06@gmail.com)](mailto:gmmartins06@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-11%20994010204-191622?logo=Whatsapp&logoColor=FF79C6&link=http://wa.me/5511976858901)](https://wa.me/5511976858901)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmorae&theme=omni&show_icons=true&count_private=true&langs_count=10&layout=compact)](https://github.com/gmorae)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmorae&theme=omni&show_icons=true&count_private=true&langs_count=10&layout=compact)
