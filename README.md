@@ -4,7 +4,6 @@ My name is Gabriel Moraes and I have been working as a web developer since 2017 
 
 I am passionate about teaching and learning in programming.
 
-## Would you like to find me?
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Moraes-191622?logo=Linkedin&logoColor=FF79C6&link=https://www.linkedin.com/in/gmorae)](https://www.linkedin.com/in/gmorae)
 [![Gmail Badge](https://img.shields.io/badge/-gmmartins06@gmail.com-191622?logo=Gmail&logoColor=FF79C6&link=mailto:gmmartins06@gmail.com)](mailto:gmmartins06@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-11%20994010204-191622?logo=Whatsapp&logoColor=FF79C6&link=http://wa.me/5511976858901)](https://wa.me/5511976858901)
