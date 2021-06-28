@@ -1,6 +1,6 @@
 ### Hi there! 😄👋
 
-My name is Gabriel Moraes and I have been working as a web developer since 2017 and I am currently a front end development at [Comuniverse](https://comuniverse.com.br) and [Tokio Marine Seguradora](https://www.tokiomarine.com.br/). 
+My name is Gabriel Moraes and I have been working as a web developer since 2017 and I am currently a front end development at [Comuniverse](https://comuniverse.com.br) and [Stefanini](https://stefanini.com/pt-br). 
 
 I am passionate about teaching and learning in programming.
 
