@@ -1,12 +1,17 @@
-### Hi there! 😄👋
+### Hello 🤙😁
 
 My name is Gabriel Moraes and I have been working as a web developer since 2017 and I am currently a front end development at [Comuniverse](https://comuniverse.com.br) and [Stefanini](https://stefanini.com/pt-br). 
 
-I am passionate about teaching and learning in programming.
-
-[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Moraes-191622?logo=Linkedin&logoColor=FF79C6&link=https://www.linkedin.com/in/gmorae)](https://www.linkedin.com/in/gmorae)
-[![Gmail Badge](https://img.shields.io/badge/-gmmartins06@gmail.com-191622?logo=Gmail&logoColor=FF79C6&link=mailto:gmmartins06@gmail.com)](mailto:gmmartins06@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-11%20994010204-191622?logo=Whatsapp&logoColor=FF79C6&link=http://wa.me/5511976858901)](https://wa.me/5511976858901)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmorae&show_icons=true&theme=omni)    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmorae&theme=omni&show_icons=true&count_private=true&langs_count=10&layout=compact)
+<div>
+  <a href="https://github.com/gmorae">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmorae&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmorae&theme=omni&show_icons=true&count_private=true&langs_count=10&layout=compact"/>
+</div>
+  
+  ##
+  
+<div> 
+  <a href="https://instagram.com/gmmartins" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gmmartins06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-moraes-martins/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
