@@ -1,6 +1,6 @@
 ### Hello 🤙😁
 
-My name is Gabriel Moraes and I have been working as a web developer since 2019 and I am currently a front end development at [Stefanini](https://stefanini.com/pt-br). 
+My name is Gabriel Moraes and I have been working as a web developer since 2019 and I am currently a front end development at [Orbirall Payments](https://www.orbitall.com.br). 
 
 <div>
   <a href="https://github.com/gmorae">
